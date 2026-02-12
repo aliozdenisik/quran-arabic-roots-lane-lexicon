@@ -251,11 +251,6 @@ Found an error? Have a suggestion?
 - **Lane's Lexicon Digital** — Online searchable version
   - Website: https://lanelexicon.com
 
-### 📞 Contact
-
-**Maintainer:** Ali Ozdenisik  
-**Project:** Clarus  
-**Issues:** https://github.com/yourusername/quran-arabic-roots-lane-lexicon/issues
 
 ---
 
