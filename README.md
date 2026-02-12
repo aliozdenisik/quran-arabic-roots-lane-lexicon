@@ -417,12 +417,6 @@ Hata buldunuz? Öneriniz mi var?
 
 **Not:** Türkçe çeviriler LLM tarafından üretilmiştir. İnsan incelemesi ve düzeltmeleri özellikle beklenmektedir.
 
-### 📞 İletişim
-
-**Sorumlu:** Ali Ozdenisik  
-**Proje:** Clarus  
-**Issues:** https://github.com/yourusername/quran-arabic-roots-lane-lexicon/issues
-
 ---
 
 **Last Updated:** 2026-02-12  
